@@ -1,0 +1,7 @@
+Theodore Roosevelt,42,NJ
+John Kennedy,43,TX
+Ulysses Grant,46,UT
+Bill Clinton,46,FL
+Grover Cleveland,47,CA
+Barack Obama,47,WI
+Franklin Pierce,48,OR

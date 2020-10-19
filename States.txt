@@ -1,0 +1,5 @@
+Delaware, DE, 1954, 971180, Peach Blossom
+Pennsylvania, PA, 44817, 12823989, Mountain-laurel
+New Jersey, NJ, 7417, 9032872, Common blue violet
+Georgia, GA, 57906, 10545138, Rosa laevigata
+Connecticut, CT, 4845, 3588683, Mountain-laurel
